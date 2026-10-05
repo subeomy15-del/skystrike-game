@@ -1,9 +1,9 @@
-# Skystrike: Airborne
+# Skystrike: Airborne — Campaign Update 2.0
 
-Play the game: https://subeomy15-del.github.io/skystrike-game/
+Play: https://subeomy15-del.github.io/skystrike-game/
 
-An original vertical scrolling arcade shooter with five missions, multi-phase bosses, three aircraft, upgrades, rescues, medals, and saved progress.
+Original free browser shooter with full-window combat, fifteen operations, harder three-phase bosses with destructible weapons, nine blueprint-unlocked aircraft, eight upgrade systems with twenty gradual levels each, rescues, medals, bonus cards, support crew, and saved progression.
 
-Move with WASD, arrows, mouse, or touch drag. Fire is automatic. Shield: Space. Laser: L. Bomb: B. Pause: P.
+Click START MISSION 01 on the title screen. Move with WASD, arrows, mouse, or relative touch dragging. Automatic fire. Shield: Space. Laser: L. Bomb: B. Pause: P / Escape. Controls, sensitivity, sound, and reduced-effects options are in Settings. Mission selection and the hangar are available before each flight.
 
-This repository contains the playable production build. Runtime license notices are in LICENSES.txt.
+This repository contains the playable production build. Original art and synthesized audio. Runtime notices: LICENSES.txt. Existing progress is migrated automatically. Local browser saves; no account or payments.
